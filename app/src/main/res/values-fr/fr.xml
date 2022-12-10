@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="title">Principal</string>
+    <string name="Temperature">Température</string>
+    <string name="Weight">Poids</string>
+    <string name="Currency">Devise</string>
+    <string name="Volume">Volume</string>
+    <string name="History">Historique</string>
+    <string name="about">About</string>
+    <string name="exit">Quiter</string>
+</resources>

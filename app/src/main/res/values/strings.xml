@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="kg">kg</string>
+    <string name="g">g</string>
+
+    <string name="title">Main</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Weight">Weight</string>
+    <string name="Currency">Currency</string>
+    <string name="Volume">Volume</string>
+    <string name="History">History</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+
+
+    <string name="aboutName" translatable="false">Projet Realiser par :Elbadaouy bilal</string>
+    <string name="aboutRoll" translatable="false">Encadré par :Pr.Y. Khamlichi</string>
+
+
+
+
+    <string-array name="weights">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+
+</resources>

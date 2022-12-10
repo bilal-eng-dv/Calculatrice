@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="" />
+        <item
+            android:id="@+id/nav_standard"
+            android:icon="@drawable/ic_main"
+            android:title="@string/title" />
+        <item
+            android:id="@+id/nav_temp"
+            android:icon="@drawable/ic_temp"
+            android:title="@string/Temperature" />
+        <item
+            android:id="@+id/nav_weight"
+            android:icon="@drawable/ic_weight"
+            android:title="@string/Weight" />
+
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_currency"
+            android:title="@string/Currency" />
+        <item
+            android:id="@+id/nav_length"
+            android:icon="@drawable/ic_length"
+            android:title="Length" />
+        <item
+            android:id="@+id/nav_volume"
+            android:icon="@drawable/ic_volume"
+            android:title="@string/Volume" />
+
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history"
+            android:title="@string/History" />
+        <item
+            android:id="@+id/nav_us"
+            android:icon="@drawable/ic_us"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit"
+            android:title="Exit" />
+        
+
+    </group>
+
+</menu>
